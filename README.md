@@ -1,7 +1,7 @@
 # Practice with Pandas for Lede 2025
 Somehow I was able to complete this homework **without using ChatGPT**. Thank you Yip for your help! Hoping some of this sticks. As Soma says...
 
-> DOn't use AI to tie your shoes
+> Don't use AI to tie your shoes
 
 ## Animals
 
